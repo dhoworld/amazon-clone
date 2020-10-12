@@ -1,0 +1,5 @@
+Need to update Section 7 to show the App.js code for useEffect/SET_USER
+
+
+Missing Orders page
+
